@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My website <a href="https://athif.xyz/">athif.xyz</a>.
+My website <a href="https://heyathif.com/">heyathif.com</a>.
 <!--
 **athif23/athif23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
